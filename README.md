@@ -34,7 +34,7 @@ With just one click, you can create an interactive game, control video playback,
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/interactive-video-player.git
+   git clone https://github.com/fix2015/interactive-video-player.git
    ```
 
 2. **Navigate to the project folder:**
@@ -148,16 +148,16 @@ Example:
 
 A powerful feature of this library is the ability to generate posters for your video files automatically. This ensures that users do not encounter any blinking or white screens between videos, as the poster is pre-generated from the first frame of each video.
 
-If you'd like to generate posters, you can use a separate repository called **[generate_poster](https://github.com/your-username/generate_poster)**, which provides a simple Bash script to automatically extract the first frame from each video and save it as a poster image.
+If you'd like to generate posters, you can use a separate repository called **[generate_poster](https://github.com/fix2015/generate_poster)**, which provides a simple Bash script to automatically extract the first frame from each video and save it as a poster image.
 
 ### Steps to Generate Posters:
 
 1. **Clone the `generate_poster` Repository**
 
-   First, clone the **[generate_poster](https://github.com/your-username/generate_poster)** repository:
+   First, clone the **[generate_poster](https://github.com/fix2015/generate_poster)** repository:
 
    ```
-   git clone https://github.com/your-username/generate_poster.git
+   git clone https://github.com/fix2015/generate_poster.git
    ```
 
 2. **Navigate to the Project Folder**
