@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    .video-player-container {
+        position: relative;
+
+        button {
+            position: relative;
+            z-index: 111;
+        }
+
+        video {
+            width: 100%;
+            object-fit: cover;
+            object-position: top;
+            webkit-transform: translate3d(0, 0, 0);
+            -webkit-perspective: 1000;
+            z-index: -1;
+            position: absolute;
+            top: 0%;
+        }
+
+        canvas {
+            width: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 1;
+        }
+
+        .flow {
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translate(-50%, 0);
+            z-index: 1;
+
+            &--buttons {
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+                gap: 10px;
+                margin-top: 20px;
+            }
+
+            &--button {
+                padding: 10px;
+                background-color: #007BFF;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                font-size: 14px;
+            }
+
+            &--button{
+                &:hover {
+                    background-color: #0056b3;
+                }
+            }
+        }
+    }
+}

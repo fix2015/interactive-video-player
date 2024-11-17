@@ -1,0 +1,46 @@
+{
+  "name": "interactive-video-player",
+  "version": "1.0.0",
+  "description": "An interactive video player framework to create engaging animations and experiences by combining different video clips. Automatically adjusts video quality based on internet speed, handles buffering efficiently, and works seamlessly across all browsers. Includes tools for generating video posters to prevent white screens during transitions.",
+  "main": "script.js",
+  "scripts": {
+    "start": "npx kill-port 9000 && webpack serve --mode development",
+    "test": "npm test",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "video-player",
+    "adaptive-streaming",
+    "internet-speed-detection",
+    "HTML5-video",
+    "canvas-rendering",
+    "vanilla-javascript",
+    "frontend",
+    "responsive-design",
+    "media-player",
+    "video-quality-switch",
+    "async-js",
+    "unit-testing",
+    "jest",
+    "media-handling",
+    "interactive-ui"
+  ],
+  "author": "Semianchuk Vitalii",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^7.1.2",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.6.3",
+    "jsdoc": "^4.0.4",
+    "json-loader": "^0.5.7",
+    "sass": "^1.81.0",
+    "sass-loader": "^16.0.3",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.0",
+    "webpack-dev-server": "^4.0.0"
+  }
+}
