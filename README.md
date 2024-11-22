@@ -186,4 +186,7 @@ If you'd like to generate posters, you can use a separate repository called **[g
 
 ## License
 
-MIT License
+MIT License  
+Copyright (c) 2024 Vitalii Semianchuk  
+
+[LinkedIn Profile](https://www.linkedin.com/in/vitalii-semianchuk-9812a786/)
