@@ -183,6 +183,10 @@ If you'd like to generate posters, you can use a separate repository called **[g
 - The script uses `ffmpeg` to extract the first frame of each `.mp4` video.
 - The first frame is saved as a `.jpg` image in the same folder as the video, with the `_poster` suffix added to the filename.
 - This process allows you to generate high-quality posters to be used in your interactive video player.
+- 
+## Connect with Me:
+- [LinkedIn - Vitalii Semianchuk](https://www.linkedin.com/in/vitalii-semianchuk-9812a786/)
+- [Telegram - @jsmentorfree](https://t.me/jsmentorfree) - We do a lot of free teaching on this channel! Join us to learn and grow in web development.
 
 ## License
 
