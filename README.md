@@ -187,6 +187,7 @@ If you'd like to generate posters, you can use a separate repository called **[g
 ## Connect with Me:
 - [LinkedIn - Vitalii Semianchuk](https://www.linkedin.com/in/vitalii-semianchuk-9812a786/)
 - [Telegram - @jsmentorfree](https://t.me/jsmentorfree) - We do a lot of free teaching on this channel! Join us to learn and grow in web development.
+- [Tiktok - @jsmentoring](https://www.tiktok.com/@jsmentoring) Everyday new videos
 
 ## License
 
